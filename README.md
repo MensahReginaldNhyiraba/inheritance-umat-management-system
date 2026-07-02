@@ -14,4 +14,4 @@ This project demonstrates inheritance in Python using a UMaT Management System.
 
 ## Author
 Reginald Nhyiraba Mensah
-FOR.41.006.112.25
+FOE.41.006.112.25
